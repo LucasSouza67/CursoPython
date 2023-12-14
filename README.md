@@ -1,2 +1,2 @@
-# Curso Python
+# Python
  Repositorio - Questões de Python 
